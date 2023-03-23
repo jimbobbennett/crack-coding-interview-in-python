@@ -4,9 +4,11 @@ This repo contains the problems solved during the Crack code interview problems 
 
 You can find details for the upcoming episodes, and register on the [Microsoft Reactor site](https://developer.microsoft.com/reactor/series/S-1111/).
 
-## Episodes
+## The problem
 
-### Episode 1 - sudoku validator
+We've been chatting too much, so we're only getting to one problem in this series!
+
+### Sudoku validator
 
 Determine if a 9x9 initial sudoku board is valid - that is the numbers on the initial state of the board reflect a valid sudoku puzzle. This puzzle doesn't need to be solve or be solvable, it just needs to be valid.
 
@@ -24,3 +26,14 @@ An initial sudoku board has some of the numbers filled in, and the aim of the pu
 
 In this board - the center horizontal line has duplicated 4s. The bottom horizontal line has duplicated 6s, and the center bottom 3x3 grid also has duplicated 6s.
 
+## Recordings
+
+You can catch the previous episodes on the [Microsoft Reactor YouTube channel](https://www.youtube.com/@MicrosoftReactor).
+
+### Episode 1 - Jim and [Jay Miller](https://twitter.com/kjaymiller)
+
+[![Recording](https://img.youtube.com/vi/bUAYiqKP2II/0.jpg)](https://www.youtube.com/live/bUAYiqKP2II?feature=share)
+
+### Episode 2 - Jim and [Dr Sarah Kaiser](https://twitter.com/crazy4pi314)
+
+[![Recording](https://img.youtube.com/vi/PI19epT_JZA/0.jpg)](https://www.youtube.com/live/PI19epT_JZA?feature=share)

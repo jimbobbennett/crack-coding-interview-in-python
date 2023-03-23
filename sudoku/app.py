@@ -1,6 +1,5 @@
 from dataclasses import dataclass
 
-
 blocks: list[int] 
 
 block_coords = block, row, column
