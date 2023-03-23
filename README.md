@@ -22,5 +22,5 @@ An initial sudoku board has some of the numbers filled in, and the aim of the pu
 
 ![An invalid sudoku board](./sudoku/sudoku-1-invalid.png)
 
-In this board - the center horizontal line has duplicated 4s. THe bottom horizontal line has duplicated 6s, and the center bottom 3x3 grid also has duplicated 6s.
+In this board - the center horizontal line has duplicated 4s. The bottom horizontal line has duplicated 6s, and the center bottom 3x3 grid also has duplicated 6s.
 
