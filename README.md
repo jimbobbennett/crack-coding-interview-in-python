@@ -34,6 +34,10 @@ You can catch the previous episodes on the [Microsoft Reactor YouTube channel](h
 
 [![Recording](https://img.youtube.com/vi/bUAYiqKP2II/0.jpg)](https://www.youtube.com/live/bUAYiqKP2II?feature=share)
 
-### Episode 2 - Jim and [Dr Sarah Kaiser](https://twitter.com/crazy4pi314)
+### Episode 2 - Jim and [Dr Sarah Kaiser](https://mathstodon.xyz/@crazy4pi314)
 
 [![Recording](https://img.youtube.com/vi/PI19epT_JZA/0.jpg)](https://www.youtube.com/live/PI19epT_JZA?feature=share)
+
+### Episode 3 - Jim, [Jay Miller](https://twitter.com/kjaymiller) and [Dr Sarah Kaiser](https://mathstodon.xyz/@crazy4pi314)
+
+[![Recording](https://img.youtube.com/vi/794Rpb9TjPo/0.jpg)](https://www.youtube.com/live/794Rpb9TjPo?feature=share)
