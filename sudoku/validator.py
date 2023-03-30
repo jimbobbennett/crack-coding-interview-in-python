@@ -14,15 +14,20 @@ def is_sub_part_valid(sub_part: np.array) -> bool:
 
 # Loop through rows/columns/blocks
 def is_grid_valid(puzzle : np.array) -> bool:
-    # Go through each row/column
+    """
+    Checks for valid rows, columns, and blocks
+    in a sudoku puzzle expressed as a numpy array
+    """
     for i in range(9):
-        # Gives the starting index for each grid
-        j, k = (i // 3) * 3, (i % 3) * 3
-        is_valid = True
         # Check row
-        is_valid = is_valid and is_sub_part_valid(puzzle[i, :])
+        if not is_sub_part_valid(puzzle[i, :]):
+            return False
         # Check column
-        is_valid = is_valid and is_sub_part_valid(puzzle[:, i])
+        if not is_sub_part_valid(puzzle[:, i]):
+            return False
         # Check block
-        is_valid = is_valid and is_sub_part_valid(puzzle[j:j+3, k:k+3].ravel())
-    return is_valid
+        # Get the starting index for each grid
+        j, k = (i // 3) * 3, (i % 3) * 3
+        if not is_sub_part_valid(puzzle[j:j+3, k:k+3].ravel()):
+            return False
+    return True
